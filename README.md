@@ -2,7 +2,7 @@
 
 
 <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-lightgrey"></a>
-<a href="./README-CN.md"><img alt="中文" src="https://img.shields.io/badge/Chinese%20(中文)-lightgrey"></a>
+<a href="./README-CN.md"><img alt="中文" src="https://img.shields.io/badge/中文-lightgrey"></a>
 
 
 Having studied iOS application development and Swift for the past three years, I believe that there fails to exist a single learning path to gaining proficiency in this domain. This is my attempt to create one.
